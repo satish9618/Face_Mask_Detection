@@ -1,0 +1,43 @@
+# Dataset - do not push
+Face_mask_data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Trained models / weights
+*.h5
+*.keras
+*.ckpt
+*.weights.h5
+*.onnx
+*.pb
+*.tflite
+
+# Generated files
+logs/
+runs/
+outputs/
+checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+.env.*
+kaggle.json
