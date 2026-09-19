@@ -856,4 +856,3 @@ The central lesson of the project is that model performance depends not only on 
 
 ```
 
-This version has clean tables, proper code blocks, consistent lists, and no collapsed formatting. Just paste it into your `README.md`.
