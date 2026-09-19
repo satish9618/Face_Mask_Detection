@@ -1,7 +1,6 @@
 # 😷 Face Mask Detection using Custom CNN & Transfer Learning
 
 <p align="center">
-  <h1 align="center">😷 Face Mask Detection</h1>
   <p align="center">
     A complete deep learning study of binary face-mask classification using a custom CNN,
     controlled experimentation, pretrained CNN comparison, and ResNet50 transfer learning.
